@@ -1,3 +1,3 @@
 # Name-1
 django project
-jalase 15 tamam :)
+jalase 17 tamam :)
